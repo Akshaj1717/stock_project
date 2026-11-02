@@ -35,7 +35,7 @@ The rule is to own the asset only while its price is above its 200-day average, 
 ## Run locally
 
 ```bash
-git clone https://github.com/<your-username>/stock-checklist.git
+git clone https://github.com/akshaj1717/stock-checklist.git
 cd stock-checklist
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
